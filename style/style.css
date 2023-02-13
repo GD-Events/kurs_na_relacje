@@ -102,7 +102,6 @@ footer>p{
     background:initial;
     text-decoration: none;
     text-align: left;
-    margin-left: 1em;
     lighting-color: black;
     opacity: 50%;
 }
@@ -174,6 +173,9 @@ li::marker{
     padding: 0;
 }
 .button-black{
+    text-align: center;
+    align-items: center;
+    display: inline-grid;
     text-transform: uppercase;
     background: none;
     border: none;
@@ -181,14 +183,16 @@ li::marker{
     background-image:url("../images/modul_kolo_czarne.png");
     background-size:contain;
     background-size: contain;
-    width: 15em;
-    height: 15em;
+    width: 12em;
+    height: 12em;
     background-repeat: no-repeat;
     /* width: 33%; */
     vertical-align: middle;
     margin: 2em;
 }
 .button-blue{
+    align-items: center;
+    display: inline-grid;
     text-transform: uppercase;
     background: none;
     border: none;
@@ -196,8 +200,8 @@ li::marker{
     background-image:url("../images/modul_kolo_morskie.png");
     background-size:contain;
     background-size: contain;
-    width: 15em;
-    height: 15em;
+    width: 12em;
+    height: 12em;
     background-repeat: no-repeat;
     /* width: 33%; */
     vertical-align: middle;

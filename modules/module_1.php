@@ -1,61 +1,23 @@
-<?php
-include_once("../sample/navigation.html")
-?>
-<link rel="stylesheet" href=".././style/style.css">
 <section class="main">
 <section class="left-bar">
-<form action="module_1.php" method="post">
     <h4>
-        <a href="module_1.php" name="main-1-1-choice" class="module-choice" style="color: #02aab0;">wartości, czyli o ukrytych motywach naszego dzialania</a>
+        <a href="1_1-main.php" name="main-1-1-choice" class="module-choice" style="color: #02aab0;">wartości, czyli o ukrytych motywach naszego dzialania</a>
     </h4>
-   
-        <li><button type="submit" name="choice1" class="button-choice">co zyskasz realizujac ten moduł?</button></li>
-        <li><button type="submit" name="choice2" class="button-choice">studium przypadku</button></li>
-        <li><button type="submit" name="choice3" class="button-choice">refleksja</button></li>
-        <li><button type="submit" name="choice4" class="button-choice">wiedza</button></li>
-        <li><button type="submit" name="choice5" class="button-choice">praktyka</button></li>
-        <li><button type="submit" name="choice6" class="button-choice">rozwój</button></li>
-        <li><button type="submit" name="choice7" class="button-choice">10 błędów popełnianych przez dobrych rodziców</button></li>
-        </form>
-        <h4><a href="module_2.php" class="module-choice"> docenianie czyli budowanie fundamentu adekwatnego poczucia własnej wartości</a></h4>
-        <h4><a href="module_3.php" class="module-choice"> omówienie, czyli świętowanie sukcesow i analizowanie porażek</a></h4>
-        <h4><a href="module_4.php" class="module-choice"> przyszłość</a></h4>
-        <h4><a href="module_5.php" class="module-choice"> wartośc, czyli o ukrytych motywach naszego działania</a></h4>
-        <h4><a href="module_6.php" class="module-choice"> oceny z zachowania</a></h4>
-</section>
+    <ul>
+        <li><a href="1_1.php" class="button-choice">co zyskasz realizujac ten moduł?</a></li>
+        <li><a href="1_2.php" class="button-choice">studium przypadku</a></li>
+        <li><a href="1_3.php" class="button-choice">refleksja</a></li>
+        <li><a href="1_4.php" class="button-choice">wiedza</a></li>
+        <li><a href="1_5.php" class="button-choice">praktyka</a></li>
+        <li><a href="1_6.php" class="button-choice">rozwój</a></li>
+        <li><a href="1_7.php" class="button-choice">10 błędów popełnianych przez dobrych rodziców</a></li>
+        </ul>
+        <h4><a href="../part2/2_1-main.php" class="module-choice"> docenianie czyli budowanie fundamentu adekwatnego poczucia własnej wartości</a></h4>
+        <h4><a href="../part3/3_1-main.php" class="module-choice"> omówienie, czyli świętowanie sukcesow i analizowanie porażek</a></h4>
+        <h4><a href="../part4/4_1-main.php" class="module-choice"> przyszłość</a></h4>
+        <h4><a href="../part5/5_1-main.php" class="module-choice"> wartośc, czyli o ukrytych motywach naszego działania</a></h4>
+        <h4><a href="../part6/6_1-main.php" class="module-choice"> oceny z zachowania</a></h4>
+        
+    </section>
 <section class="content content3">
-    <?php
-    if(isset($_POST['choice1'])){
-        include_once("part1/1_1.html");}
-    elseif(isset($_POST['choice2'])){
-        include_once('part1/1_2.html');}
-    elseif(isset($_POST['choice3'])){
-        include_once('part1/1_3.html');}
-    elseif(isset($_POST['choice4'])){
-        include_once('part1/1_4.html');}
-    elseif(isset($_POST['choice5'])){
-        include_once('part1/1_5.html');}
-    elseif(isset($_POST['choice6'])){
-        include_once('part1/1_6.html');}
-    elseif(isset($_POST['choice7'])){
-        include_once('part1/1_7.html');}
-    else{
-        include_once('part1/1_1-main.html');
-    }
-    ?>
-    <script>
-    </script>
-</section>
-<form method="POST">
-<button name="next_step">dalej</button>
-</form>
-<?php
-// if(isset($_POST['next_step'])){
-//     include_once('part1/1_')
-// }
-?>
-</section>
 
-<?php
-include_once("../sample/footer.html")
-?>
