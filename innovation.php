@@ -14,11 +14,17 @@
     <section class="content">
         <article>
         <h2>O innowacji</h2>
-            <p>Kurs na relacje to przestrzeń, w którym w jednym miejscu znajdziesz podstawową wiedzę dotyczącą
-obszarów ważnych do omówienia z uczniami i rodzicami. Na podstawie opisów przypadków będziesz
-mógł zastanowić się nad własnym warsztatem pracy. Gotowe scenariusze zajęć z uczniami i rodzicami
-pozwolą Ci przeprowadzić ważne dla rozwoju relacji młodych i starszych aktywności. Kurs składa się z
-modułu dla dyrektora oraz pięciu modułów dla wychowawców klas 4-8:
+            <p>Nie każdy nauczyciel zostając wychowawcą wie, w jaki sposób może wspierać rozwój swoich
+uczniów. Kurs na relacje wspiera wychowawców i dyrektorów szkół w podnoszeniu
+kompetencji miękkich uczniów i rodziców. Jest to zbiór podstawowej wiedzy, pytań
+inspirujących do refleksji nad własnym warsztatem oraz scenariuszy umożliwiających
+przeprowadzenie zajęć z wychowawcą oraz zebrań z rodzicami. Kurs na relacje to przestrzeń,
+w którym w jednym miejscu znajdziesz podstawową wiedzę dotyczącą obszarów i postaw
+wartych kształtowania podczas spotkań z rodzicami i uczniami. Na podstawie opisów
+przypadków możesz zastanowić się też nad własnym warsztatem pracy. Gotowe scenariusze
+zajęć z uczniami i rodzicami pozwolą Ci przeprowadzić ważne dla rozwoju relacji młodych
+i starszych aktywności. Kurs składa się z modułu dla dyrektora oraz pięciu modułów dla
+wychowawców klas 4-8:
 <ul>
     <li>
     Wartości, czyli o ukrytych motywach naszego działania 
@@ -36,31 +42,36 @@ modułu dla dyrektora oraz pięciu modułów dla wychowawców klas 4-8:
     Wytrwałość, czyli życie jako maraton, a nie sprint
     </li>
 </ul></p>
-        <h5>
+<p>
+Każdy moduł możesz zrealizować niezależnie od pozostałych, jednocześnie wszystkie razem
+tworzą spójną całość, bo treści kolejnych modułów zazębiają się pozwalając przeprowadzić
+cykl logicznie powiązanych aktywności.
+</p>
+        <h4>
             Innowatorzy
-        </h5>
-        <h5>Karolina Kozak</h5>
-        <p>Współzałożycielka i wiceprezeska Fundacji Laboratorium Edukacyjne Edulab, która jest organem
-prowadzącym szkołę podstawową. Dyrektorka Niepublicznej Szkoły Podstawowej EduLab w Starych
-Babicach oraz dyrektorka ds. pedagogicznych Niepublicznego Przedszkola „Tęcza” w Latchorzewie.
-Od 8 lat jest wychowawczynią i tutorką kolejnych klas szkoły podstawowej. Jako liderka rady
-pedagogicznej tworzy warunki i wspiera nauczycieli w pracy z wychowankami w oparciu o różne
-koncepcje pedagogiczne, zwracając uwagę na to, aby były one oparte na badaniach naukowych.
-Absolwentka polonistyki na Uniwersytecie Warszawskim, studiów podyplomowych Trener zdolności
-poznawczych na Uniwersytecie SWPS oraz absolwentka Akademii Przywództwa Liderów Oświaty
-organizowanej przez Instytut Humanites. Członek Ogólnopolskiego Stowarzyszenia Kadry
-Kierowniczej Oświaty.</p>
+        </h4>
+        <h4>Karolina Kozak</h4>
+        <p>Z wykształcenia polonistka, z wyboru współzałożycielka i wiceprezeska Fundacji
+Laboratorium Edukacyjne Edulab, będącej organem prowadzącym szkołę podstawową.
+Dyrektorka Niepublicznej Szkoły Podstawowej EduLab w Starych Babicach oraz dyrektorka
+ds. pedagogicznych Niepublicznego Przedszkola „Tęcza” w Latchorzewie. Od 8 lat
+wychowawczyni i tutorka kolejnych klas szkoły podstawowej. Jako liderka rady
+pedagogicznej tworzy warunki i wspiera nauczycieli w pracy z wychowankami w oparciu
+o różne koncepcje pedagogiczne, zwracając uwagę na to, aby były one oparte na badaniach
+naukowych. Absolwentka polonistyki na Uniwersytecie Warszawskim, studiów
+podyplomowych Trener zdolności poznawczych na Uniwersytecie SWPS oraz absolwentka
+Akademii Przywództwa Liderów Oświaty organizowanej przez Instytut Humanites. Członek
+Ogólnopolskiego Stowarzyszenia Kadry Kierowniczej Oświaty.</p>
 <h5>Piotr Sienkiewicz</h5>
 <p>
-Wicedyrektor Niepublicznej Szkoły Podstawowej EduLab, nauczyciel historii, wiedzy o
-społeczeństwie, wychowawca klas, tutor. Ekspert w zakresie edukacji obywatelskiej. Jako stały
-współpracownik Fundacji Civis Polonus pracuje z uczniami oraz nauczycielami w celu wzmacniania
-samorządności uczniowskiej. Jest autorem licznych publikacji, scenariuszy lekcji i projektów
-edukacyjnych poświęconych podmiotowości uczniowskiej, kompetencji społeczno-obywatelskich,
-edukacji globalnej, zrównoważonego rozwoju, partycypacji publicznej, komunikacji nauczycieli z
-uczniami i rodzicami.
+Wicedyrektor Niepublicznej Szkoły Podstawowej EduLab, nauczyciel historii, wiedzy
+o społeczeństwie, wychowawca klas, tutor. Ekspert w zakresie edukacji obywatelskiej. Jako
+stały współpracownik Fundacji Civis Polonus pracuje z uczniami oraz nauczycielami w celu
+wzmacniania samorządności uczniowskiej. Jest autorem licznych publikacji, scenariuszy lekcji
+i projektów edukacyjnych poświęconych podmiotowości uczniowskiej, kompetencji
+społeczno-obywatelskich, edukacji globalnej, zrównoważonego rozwoju, partycypacji
+publicznej, komunikacji nauczycieli z uczniami i rodzicami.
 </p>
-        <a href="modules.php" class="start-button">rozpocznij</a>
     </article>
         <img src="images/grafika_przewodnia.png" alt="">
         

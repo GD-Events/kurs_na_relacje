@@ -11,9 +11,9 @@ include('sample/navigation.html');
 </article>
 </section>
 <section class="modules"> 
-<a href="modules.php" class="button-black">rodzic</a>
-<a href="modules.php" onclick="location.href='modules.php'" class="button-blue">nauczyciel</a>
-<a href="modules.php" onclick="location.href='modules.php'" class="button-black">dyrektor</a>
+<a href="modules_rodzic.php" class="button-black">rodzic</a>
+<a href="modules.php" class="button-blue">nauczyciel</a>
+<a href="modules_dyr/part1/1_1-main.php" class="button-black">dyrektor</a>
 </section>
 <?php
 include_once('sample/footer.html');

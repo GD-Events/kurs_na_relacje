@@ -14,11 +14,13 @@
     <section class="content">
         <article>
         <h2>Intro</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae maxime explicabo, aut ipsam possimus necessitatibus exercitationem cupiditate id repellendus illum doloribus sapiente architecto, est quam voluptatibus? Hic magni ipsa ex!</p>
-        <h5>
-            Lorem ipsum dolor
-        </h5>
-        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dignissimos nisi explicabo maxime dolorum commodi ullam repudiandae labore incidunt veniam? Officiis dolorum vitae nisi facere repudiandae, necessitatibus autem. Inventore, quae maiores?</p>
+            <p>Kurs na relacje to inspiracje i gotowe narzędzia do prowadzenia lekcji wychowawczych oraz
+spotkań z rodzicami. Kurs porusza tematy z pozoru proste. Wierzymy jednak, że to właśnie
+w nich tkwi potężna moc wychowawstwa. Wspólna rozmowa o wartościach, docenianie
+innych i tego co nas otacza, omówienie sukcesów i analizowanie porażek, nawyk planowania
+i wytrwałego dążenia do wyznaczonych celów, to tematy często pomijane w szkole. Tym
+kursem chcemy pokazać, jak otworzyć na nie serca i umysły uczniów oraz rodziców.</p>
+        
         <a href="choice.php" class="start-button">rozpocznij</a>
     </article>
         <img src="images/grafika_przewodnia.png" alt="">
