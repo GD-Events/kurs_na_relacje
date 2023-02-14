@@ -5,13 +5,25 @@ include_once("../module_4.php");
 ?>
 <article class="modules-content">
     <h2>refleksja</h2>
-    <p>...</p>
-    
-    <section class="content-1_2">
-        <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consequuntur exercitationem quasi quisquam voluptatibus consectetur. Repellat sint hic, amet esse tempore, quaerat consectetur consequuntur nesciunt maxime, obcaecati eligendi laboriosam mollitia adipisci?
-        </p>
-    </section>
+    <ul>
+        <li>
+        Czy zdarzyło Ci się usłyszeć podobne pytania?
+        </li>
+        <li>
+        Jak na nie reagujesz?
+        </li>
+        <li>
+        W jakim stopniu uważasz, że jesteś w stanie wesprzeć rodziców w znalezieniu
+odpowiedzi na te pytania?
+        </li>
+        <li>
+        Jak rozmawiasz z uczniami o wyznaczaniu celów życiowych?
+        </li>
+        <li>
+        Przypomnij sobie jakikolwiek własny cel życiowy. Jak go określałeś/aś? Czy udało Ci się go
+zrealizować? Dlaczego? Co Ci przeszkadzało, a co wspierało?
+        </li>
+    </ul>
     <a href="4_4.php" class="start-button">przejdź dalej</a>
 </article>
     </section>

@@ -9,13 +9,12 @@
         <li><a href="1_3.php" class="button-choice">refleksja</a></li>
         <li><a href="1_4.php" class="button-choice">wiedza</a></li>
         <li><a href="1_5.php" class="button-choice">praktyka</a></li>
-        <li><a href="1_6.php" class="button-choice">rozwój</a></li>
-        <li><a href="1_7.php" class="button-choice">10 błędów popełnianych przez dobrych rodziców</a></li>
         </ul>
         <h4><a href="../part2/2_1-main.php" class="module-choice"> docenianie czyli budowanie fundamentu adekwatnego poczucia własnej wartości</a></h4>
         <h4><a href="../part3/3_1-main.php" class="module-choice"> omówienie, czyli świętowanie sukcesow i analizowanie porażek</a></h4>
-        <h4><a href="../part4/4_1-main.php" class="module-choice"> przyszłość</a></h4>
-        <h4><a href="../part5/5_1-main.php" class="module-choice"> wartośc, czyli o ukrytych motywach naszego działania</a></h4>
+        <h4><a href="../part4/4_1-main.php" class="module-choice"> Planowanie, czyli wyznaczanie celów i skuteczne dążenie do
+nich</a></h4>
+        <h4><a href="../part5/5_1-main.php" class="module-choice"> Wytrwałość, czyli życie jako maraton, a nie sprint</a></h4>
         <h4><a href="../part6/6_1-main.php" class="module-choice"> oceny z zachowania</a></h4>
         
     </section>

@@ -4,8 +4,13 @@ include_once("../../sample/navigation_modules.html");
 include_once("../module_3.php");
 ?>
 <article class="modules-content">
-<h2>co zyskasz realizując ten moduł?</h2>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias aut beatae eligendi ea culpa et ipsam sint voluptatum nesciunt debitis animi laudantium voluptates, nisi consequatur quo libero quidem id voluptatem! Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum consectetur est quisquam perferendis quasi labore modi, sint sed maxime fuga mollitia rem similique error, dignissimos nisi recusandae quod eligendi eveniet? Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum, reiciendis deleniti. Earum officia inventore nostrum facilis consequatur nam. Dolorum similique, maiores sit iusto maxime quam suscipit labore quidem non perspiciatis.</p>
+<h2>efekt</h2>
+<p>Dzięki realizacji tego modułu poznasz znaczenie podsumowywania procesów i ostatecznego
+efektu. Dowiesz się, że świętowanie zakończenia zadania motywuje do podejmowania
+kolejnych działań. Omówisz wybrany proces lub projekt z uczniami i rodzicami. Wzbudzisz
+refleksję w uczniach i rodzicach nie tylko nad samym efektem końcowym, ale również
+procesem do tego efektu prowadzącym. Dowiesz się, dlaczego popełnienie błędu to świetna
+okazja do uczenia się.</p>
 <a href="3_2.php" class="start-button">przejdź dalej</a>
 </article>
 </section>

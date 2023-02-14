@@ -11,10 +11,11 @@ include('sample/navigation.html');
 </article>
 </section>
 <section class="modules"> 
-<a href="modules/part1/1_1-main.php" class="button-black">tytul</a>
+<a href="modules/part1/1_1-main.php" class="button-black">wartości, czyli o ukrytych motywach naszego działania</a>
 <a href="modules/part2/2_1-main.php" class="button-blue">docenianie czyli budowanie fundamentu adekwatnego poczucia własnej wartości</a>
 <a href="modules/part3/3_1-main.php" class="button-black">omówienie, czyli świętowanie sukcesow i analizowanie porażek</a>
-<a href="modules/part4/4_1-main.php" class="button-blue">przyszłość</a>
+<a href="modules/part4/4_1-main.php" class="button-blue">Planowanie, czyli wyznaczanie celów i skuteczne dążenie do
+nich</a>
 <a href="modules/part5/5_1-main.php" class="button-black">wartośc, czyli o ukrytych motywach naszego działania</a>
 <a href="modules/part6/6_1-main.php" class="button-blue">oceny z zachowania</a>
 </section>

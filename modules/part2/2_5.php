@@ -7,108 +7,137 @@ include_once("../module_2.php");
     <h2>praktyka</h2>
     <h4>scenariusz lekcji wychowawczej</h4>
     <p>
-        <b>temat:</b> cos tam cos tam</br>
-        <b>czas:</b> cos tam cos tam 45min
+        <b>temat:</b> Dlaczego warto doceniać? Jak to robić?</br>
+        <b>czas:</b> 45 minut (+ ewentualne rozszerzenie o dodatkowe 45 min.)
     </p>
-    <h4>cele</h4>
+    <h4>cele;</h4>
     <p>
         po zajeciach uczen: </br>
         <ul>
-            <li>wie czyms sa</li>
-            <li>sadas dsadsad</li>
-            <li>lkdsasd dsadasd dsadasd dsada</li>
+            <li>rozumie, dlaczego ważne jest docenianie</li>
+            <li>potrafi sformułować komunikat doceniający drugą osobę</li>
         </ul>
     </p>
     <h4>metody</h4>
     <p>
         <ul>
-            <li>wie czyms sa</li>
-            <li>sadas dsadsad</li>
-            <li>lkdsasd dsadasd dsadasd dsada</li>
+            <li>rozmowa kierowana</li>
+            <li>opis przypadku</li>
         </ul>
     </p>
     <h4>formy</h4>
     <p>
         <ul>
-            <li>wie czyms sa</li>
-            <li>sadas dsadsad</li>
-            <li>lkdsasd dsadasd dsadasd dsada</li>
+            <li>indywidualna</li>
+            <li>grupowa</li>
+            <li>zespołowa</li>
         </ul>
     </p>
     <ol class="a1_5-list">
-    <h4>faza wstępna</h4>
+    <h4>Faza wstępna [15 min]</h4>
     <li>
     
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt optio ab incidunt eaque laboriosam repellendus, alias voluptatem officiis quasi odit dolorum excepturi facere nostrum, soluta consequatur reiciendis ipsa magnam natus.
+    Przywitaj się z uczniami. Przedstaw temat oraz cele lekcji, przypomnij o zasadach
+panujących na lekcji (wywieś kontrakt).
         
     </li>
     <li>
         
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt optio ab incidunt eaque laboriosam repellendus, alias voluptatem officiis quasi odit dolorum excepturi facere nostrum, soluta consequatur reiciendis ipsa magnam natus.
+    Zaanimuj swobodną rozmowę na forum klasy - czym jest docenianie? Zapisz
+wypowiedziane przez uczniów słowa/zwroty kluczowe.
         
     </li>
     <li>
         
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt optio ab incidunt eaque laboriosam repellendus, alias voluptatem officiis quasi odit dolorum excepturi facere nostrum, soluta consequatur reiciendis ipsa magnam natus.
+    Poproś chętnych uczniów aby powiedzieli, co lub kogo doceniają. Zwróć uwagę, że
+często nie doceniamy tego, co mamy oraz ludzi, którzy nas otaczają. Możesz odwołać
+się do własnych doświadczeń (np. nie doceniałam/em swobody możliwości
+bezpośredniego kontaktu z uczniami, dopóki nie pojawiła się edukacja zdalna).
         
     </li>
-    <h4>faza realizacyjna</h4>
+    <h4>Faza realizacyjna [25 min]</h4>
     <li>
         
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt optio ab incidunt eaque laboriosam repellendus, alias voluptatem officiis quasi odit dolorum excepturi facere nostrum, soluta consequatur reiciendis ipsa magnam natus.
+    Sformułuj zadanie indywidualne - zapisz wypowiedź, w której docenisz jedną
+wybraną osobę. Uprzedź, że nie będzie obowiązku czytania ani pokazywania swojej
+pracy.
         
     </li>
     <li>
         
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt optio ab incidunt eaque laboriosam repellendus, alias voluptatem officiis quasi odit dolorum excepturi facere nostrum, soluta consequatur reiciendis ipsa magnam natus.
-        
+    Daj możliwość przeczytania wypowiedzi chętnym uczniom.
     </li>
     <li>
     
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt optio ab incidunt eaque laboriosam repellendus, alias voluptatem officiis quasi odit dolorum excepturi facere nostrum, soluta consequatur reiciendis ipsa magnam natus.
+    Podziel uczniów na kilkuosobowe grupy. Każdej wręcz opisy dwóch sytuacji (załącznik
+nr 1). Poproś, aby zapoznali się z nimi i znaleźli różnice w sposobie formułowania
+przekazu.
         
     </li>
     <li>
         
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt optio ab incidunt eaque laboriosam repellendus, alias voluptatem officiis quasi odit dolorum excepturi facere nostrum, soluta consequatur reiciendis ipsa magnam natus.
+    Omów wyniki pracy grup. Wysłuchaj wniosków.
         
     </li>
-    <h4>faza podsumowujaca</h4>
+    <li>
+    Wprowadź teorię - przedstaw wskazówki skutecznego docenienia:
+    <ul>
+        <li>
+        powiedz, co czujesz;
+        </li>
+        <li>
+        powiedz konkretnie, za co doceniasz.
+        </li>
+    </ul>
+    </li>
+    <li>
+    Powiedz uczniom, aby powrócili do lektury sformułowanych przez siebie na początku
+lekcji wypowiedzi. Poproś, aby zastanowili się, co by zmienili w tej wypowiedzi, mając
+już nową wiedzę.
+    </li>
+    <li>
+    Chętni uczniowie czytają swoje pierwsze i zmodyfikowane wypowiedzi (pamiętaj, że
+jest to zadanie tylko dla chętnych).
+    </li>
+
+    <h4>Faza podsumowująca [5 min]</h4>
     <li>
         
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt optio ab incidunt eaque laboriosam repellendus, alias voluptatem officiis quasi odit dolorum excepturi facere nostrum, soluta consequatur reiciendis ipsa magnam natus.
+    W ramach podsumowania opowiedz uczniom o zebraniu z rodzicami, na którym
+również będziesz rozmawiać o docenianiu. Powiedz o zadaniu, które rodzice
+otrzymają do wykonania wraz uczniami - wspólnym codziennym docenianiu się przez
+najbliższy tydzień.
         
     </li>
 </ol>
-    <h4>propozycja rozszerzenia</h4>
+    <h4>propozycja rozszerzenia:</h4>
     <ol class="a1_5-list">
     <li>
     
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt optio ab incidunt eaque laboriosam repellendus, alias voluptatem officiis quasi odit dolorum excepturi facere nostrum, soluta consequatur reiciendis ipsa magnam natus.
+    Zajęcia możesz podzielić na więcej jednostek lekcyjnych. Możliwe, że dyskusja
+w ramach fazy wstępnej okaże się bardzo owocna. W takim przypadku nie przerywaj
+jej. Staraj się, aby uczniowie nazwali to, co doceniają (zdrowie, rodzinę, wolność,
+pokój, przyrodę, itp.) i z jakiego powodu to doceniają. To ważne, aby umieć doceniać
+i cieszyć się tym, co wokół nas.
         
     </li>
     <li>
     
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt optio ab incidunt eaque laboriosam repellendus, alias voluptatem officiis quasi odit dolorum excepturi facere nostrum, soluta consequatur reiciendis ipsa magnam natus.
+    Pod koniec fazy realizacyjnej możesz rozpocząć rozmowę/pracę w grupach nad
+poszukiwaniem innych sposobów doceniania.
     
     </li>
     <li>
         
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt optio ab incidunt eaque laboriosam repellendus, alias voluptatem officiis quasi odit dolorum excepturi facere nostrum, soluta consequatur reiciendis ipsa magnam natus.
-        
-        <ol type="a">
-            <li>jak cos tam</li>
-            <li>jak cos tam</li>
-            <li>jak cos tam</li>
-        </ol>
+    Możesz sformułować zadanie indywidualne - napisz, narysuj za co doceniasz rodziców
+(pamiętaj, aby docenienie spełniało kryteria).
     </li>
 </ol>
     <p class="attached">
         <a href="" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załącznik nr 1 opis sytuacji</a>
-        <a href="" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załącznik nr 2 karta wartości</a>
-        <a href="" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załącznik nr 3 opisy grup i instytucji</a>
+        <a href="" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załącznik nr 2 scenariusz zebrania z rodzicami</a>
     </p>
-    <a href="2_6.php" class="start-button">przejdź dalej</a>
+    <a href="../part3/3_1-main.php" class="start-button">Powrót na stronę główną</a>
     </article>
     </section>
 </section>

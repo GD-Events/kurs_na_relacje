@@ -128,12 +128,13 @@ footer>p{
 .modules-content{
     text-align: left;
 }
-.content-1_2>p{
+.content-1_2>p, div.content-1_2{
     border: 1px solid lightgrey;
     background-color: rgb(243, 243, 243);
     padding: 2em;
    
 }
+
 .start-button{
     padding: 0.5em 1em;
     border: 1px solid #02aab0;

@@ -4,8 +4,13 @@ include_once("../../sample/navigation_modules.html");
 include_once("../module_4.php");
 ?>
 <article class="modules-content">
-<h2>wartości, czyli o ukrytych motywach naszego działania</h2>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias aut beatae eligendi ea culpa et ipsam sint voluptatum nesciunt debitis animi laudantium voluptates, nisi consequatur quo libero quidem id voluptatem! Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum consectetur est quisquam perferendis quasi labore modi, sint sed maxime fuga mollitia rem similique error, dignissimos nisi recusandae quod eligendi eveniet? Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum, reiciendis deleniti. Earum officia inventore nostrum facilis consequatur nam. Dolorum similique, maiores sit iusto maxime quam suscipit labore quidem non perspiciatis.</p>
+<h2>Planowanie, czyli wyznaczanie celów i skuteczne dążenie do
+nich</h2>
+<p>Czasy, w których żyjemy, obfitują w wiele możliwości i pokus. Z jednej strony chcemy dbać
+o budowanie dobrej przyszłości, z drugiej - korzystać z bieżących przyjemności. Jedyną
+metodą, aby to nie przypadek w pełni decydował o naszym życiu, jest wyznaczanie sobie
+celów i dążenie do ich realizacji. Tylko w ten sposób nie zgubimy obranej drogi w labiryncie
+życia.</p>
 <a href="4_1.php" class="start-button">przejdź dalej</a>
 </article>
 </section>
