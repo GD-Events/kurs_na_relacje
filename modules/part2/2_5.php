@@ -12,29 +12,29 @@ include_once("../module_2.php");
     </p>
     <h4>cele;</h4>
     <p>
-        po zajeciach uczen: </br>
+        po zajeciach uczen:</p> 
         <ul>
             <li>rozumie, dlaczego ważne jest docenianie</li>
             <li>potrafi sformułować komunikat doceniający drugą osobę</li>
         </ul>
-    </p>
+    
     <h4>metody</h4>
-    <p>
+    
         <ul>
             <li>rozmowa kierowana</li>
             <li>opis przypadku</li>
         </ul>
-    </p>
+    
     <h4>formy</h4>
-    <p>
+    
         <ul>
             <li>indywidualna</li>
             <li>grupowa</li>
             <li>zespołowa</li>
         </ul>
-    </p>
-    <ol class="a1_5-list">
     <h4>Faza wstępna [15 min]</h4>
+    <ol class="a1_5-list">
+    
     <li>
     
     Przywitaj się z uczniami. Przedstaw temat oraz cele lekcji, przypomnij o zasadach
@@ -55,7 +55,9 @@ się do własnych doświadczeń (np. nie doceniałam/em swobody możliwości
 bezpośredniego kontaktu z uczniami, dopóki nie pojawiła się edukacja zdalna).
         
     </li>
+    </ol>
     <h4>Faza realizacyjna [25 min]</h4>
+    <ol class="a1_5-list">
     <li>
         
     Sformułuj zadanie indywidualne - zapisz wypowiedź, w której docenisz jedną
@@ -99,8 +101,9 @@ już nową wiedzę.
     Chętni uczniowie czytają swoje pierwsze i zmodyfikowane wypowiedzi (pamiętaj, że
 jest to zadanie tylko dla chętnych).
     </li>
-
+    </ol>
     <h4>Faza podsumowująca [5 min]</h4>
+    <ol class="a1_5-list">
     <li>
         
     W ramach podsumowania opowiedz uczniom o zebraniu z rodzicami, na którym

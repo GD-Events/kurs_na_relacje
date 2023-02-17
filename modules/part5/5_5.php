@@ -11,38 +11,36 @@ include_once("../module_5.php");
         <b>czas:</b> 45 minut (+ ewentualne rozszerzenie o dodatkowe 45 min.)
     </p>
     <h4>cele</h4>
-    <p>
         po zajeciach uczen: </br>
         <ul>
             <li>wie, czym jest wytrwałość</li>
             <li>rozumie, że wytrwałość jest niezbędna do osiągania celów</li>
             <li>zna nawyki skutecznego działania</li>
         </ul>
-    </p>
     <h4>metody</h4>
-    <p>
         <ul>
             <li>rozmowa kierowana</li>
             <li>opis przypadku</li>
         </ul>
-    </p>
     <h4>formy</h4>
-    <p>
         <ul>
             <li>indywidualna</li>
             <li>grupowa</li>
             <li>zespołowa</li>
         </ul>
-    </p>
+    <h4>Faza wstępna [5 min]</h4>  
     <ol class="a1_5-list">
-    <h4>Faza wstępna [5 min]</h4>
+    
     <li>
     
     Przywitaj się z uczniami. Przedstaw temat oraz cele lekcji. Przypomnij o zasadach
 panujących na lekcji (wywieś kontrakt).
         
     </li>
-    <h4>Faza realizacyjna [30 min]</h4>
+</ol>
+<h4>Faza realizacyjna [30 min]</h4>
+<ol class="a1_5-list">
+    
     <li>
         
     Podziel uczniów na kilkuosobowe grupy. Każdej rozdaj jeden z biografów znanych
@@ -77,7 +75,9 @@ mycie rąk przed jedzeniem, robienie odpoczynku po powrocie ze szkoły, chodzeni
 spać o określonej godzinie, zapisywanie rzeczy do zrobienia w kalendarzu.
         
     </li>
+</ol>
     <h4>Faza podsumowująca [10 min]</h4>
+    <ol class="a1_5-list">
     <li>
         
     W ramach podsumowania poproś uczniów, aby wskazali czynność, którą chcą uczynić

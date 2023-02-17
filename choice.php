@@ -1,4 +1,12 @@
-<link rel="stylesheet" href="style/style.css">
+<!DOCTYPE html>
+    <html lang="pl">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="style/style.css">
+        <title>Document</title>
+    <body>
 <?php
 include('sample/navigation.html');
 ?>
@@ -11,10 +19,12 @@ include('sample/navigation.html');
 </article>
 </section>
 <section class="modules"> 
-<a href="modules_rodzic.php" class="button-black">rodzic</a>
+<a href="modules_parent/part1/1_1-main.php" class="button-black">rodzic</a>
 <a href="modules.php" class="button-blue">nauczyciel</a>
 <a href="modules_dyr/part1/1_1-main.php" class="button-black">dyrektor</a>
-</section>
+</section> 
+</body>
 <?php
 include_once('sample/footer.html');
 ?>
+</html>

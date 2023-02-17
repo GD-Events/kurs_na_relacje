@@ -17,6 +17,7 @@ include_once("../module_1.php");
     </p>
     <p>
     Po zajęciach uczeń:
+    </p>
     <ul>
         <li>
         wie, czym są wartości
@@ -28,9 +29,9 @@ include_once("../module_1.php");
         potrafi wskazać wartości istotne dla siebie, rodziny i innych wspólnot
         </li>
     </ul>
-    </p>
     <p>
         metody
+    </p>
     <ul>
         <li>
         rozmowa kierowana
@@ -40,9 +41,9 @@ include_once("../module_1.php");
         opis przypadku
         </li>
 </ul>
-    </p>
         <p>
             formy
+        </p>
         <ul>
         <li>
         indywidualna
@@ -54,10 +55,9 @@ include_once("../module_1.php");
         zespołowa
         </li>
     </ul>
-        </p>
-    <p>
+        <h4>Faza wstępna [15 min]</h4>
         <ol>
-            <h4>Faza wstępna [15 min]</h4>
+            
             <li>
             Przywitaj się z uczniami. Przedstaw temat oraz cele lekcji, przypomnij o zasadach
 panujących na lekcji (wywieś kontrakt).
@@ -74,9 +74,11 @@ decyzje. Odwołaj się do przykładów z opisów sytuacji. Podkreśl również, 
 było wskazanie różnych wartości do tych samych sytuacji, często bowiem podobne
 decyzje mogą wynikać z różnych potrzeb, a te - z różnych wartości.
             </li>
+        </ol>
         <h4>
         Faza realizacyjna [25 minut]
         </h4>
+        <ol>
         <li>
         Każdemu uczniowi wręcz kartę wartości (załącznik nr 2). Poproś, aby wybrał
 5 wartości, które uważa za najważniejsze i zastanowił się, dlaczego je wskazał.
@@ -102,7 +104,9 @@ Podsumuj, że wartościami kierują się nie tylko pojedynczy ludzie, ale równi
 i instytucje. Przykładem grupy, jednej z najważniejszych w społeczeństwie, jest
 rodzina.
         </li>
+</ol>
         <h4>Faza podsumowująca [5 min]</h4>
+     <ol>
         <li>
         W ramach podsumowania opowiedz uczniom o zebraniu z rodzicami, na którym
 również będziesz rozmawiać o wartościach i zadaniu, jakie rodzice otrzymają do
@@ -110,10 +114,11 @@ wykonania wraz z uczniami - wspólnej rozmowie o tym, które wartości są ważn
 w ich rodzinie oraz co robią jako rodzina, żeby postępować zgodnie z nimi.
         </li>
     </ol>
-    <ol>
     <h4>
         propozycja rozszerzenia
     </h4>
+    <ol>
+    
     <li>
     Na kolejnej lekcji uczniowie mogą narysować/odtworzyć scenki prezentujące to, jakie
 wartości są ważne w ich rodzinach i jak je wcielają w życie (np. zdrowy tryb życia -
@@ -132,7 +137,6 @@ dostrzegają w swojej klasie.
 profilaktyczno-wychowawczym szkoły i/lub statucie szkoły. Krótko opowiedz uczniom
 o tych dokumentach (jaki jest ich cel, kto je opracował i uchwalił). Zachęć uczniów do
 dyskusji:
-    </li>
     <ol>
     <li>jak waszym zdaniem są realizowane te wartości w szkole?</li>
     <li>
@@ -142,9 +146,8 @@ dyskusji:
     jakich wartości brakuje, a uważacie, że są istotne dla społeczności szkolnej?
     </li>
     </ol>
-
+    </li>
     </ol>
-    </p>
 
     <p class="attached">
         <a href="" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załącznik nr 1 opis sytuacji</a>

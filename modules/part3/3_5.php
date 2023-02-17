@@ -11,39 +11,36 @@ include_once("../module_3.php");
         <b>czas:</b> 45 minut (+ ewentualne rozszerzenie o dodatkowe 45 min.)
     </p>
     <h4>cel:</h4>
-    <p>
-        po zajeciach uczen: </br>
+        <p>po zajeciach uczen: </p>
         <ul>
             <li>rozumie, dlaczego warto podsumowywać wydarzenia, procesy i efekty swojej pracy</li>
             <li>swie, jak powinna być zbudowana informacja zwrotna</li>
             <li>jest świadom, że informacja zwrotna służy rozwojowi a nie jest próbą krytyki danej
 osoby.</li>
         </ul>
-    </p>
     <h4>metody</h4>
-    <p>
         <ul>
             <li>rozmowa kierowana</li>
             <li>opis przypadku</li>
         </ul>
-    </p>
     <h4>formy</h4>
-    <p>
         <ul>
             <li>indywidualna</li>
             <li>grupowa</li>
             <li>zespołowa</li>
         </ul>
-    </p>
+    <h4>Faza wstępna [5 min]</h4>    
     <ol class="a1_5-list">
-    <h4>Faza wstępna [5 min]</h4>
+    
     <li>
     
     Przywitaj się z uczniami. Przedstaw temat oraz cele lekcji, przypomnij o zasadach
 panujących na lekcji (wywieś kontrakt).
         
     </li>
+</ol>
     <h4>Faza realizacyjna [25 min]</h4>
+    <ol class="a1_5-list">
     <li>
         
     Poproś uczniów o połączenie się w pary, ewentualnie w trzyosobowe grupy. Wręcz
@@ -57,8 +54,7 @@ rodzica dotyczącą spraw domowych.
 mocne i słabe strony każdej z informacji zwrotnej.
         
     </li>
-    <li>
-        
+    <li> 
     Na forum klasy zacznij rozmowę:
         <ul>
             <li>
@@ -74,10 +70,13 @@ przyszłości lepiej wykonać zadanie/osiągnąć lepszy efekt.
             </li>
         </ul>
     </li>
-    Uczniowie powinni dojść do wniosku, że informacje zwrotne zawierające konkretne
+    </ol>
+<p>    Uczniowie powinni dojść do wniosku, że informacje zwrotne zawierające konkretne
 odniesienie do faktów umożliwiają doskonalenie swojej pracy. Nie są przejawem czepialstwa
 ani nie są wymierzone w odbiorcę, lecz stanowią konkretną wskazówkę nad tym, co i jak
 można poprawić.
+</p>
+<ol class="a1_5-list">
     <li>
         
     Poproś uczniów, aby indywidualnie opisali na kartkach sytuacje, w których
@@ -91,7 +90,9 @@ uczucia, konflikt, itp.).
 rodzice nauczyli się formułować informację zwrotną. Poproś o zgodę uczniów.
         
     </li>
+    </ol>
     <h4>Faza podsumowująca [15 min]</h4>
+    <ol class="a1_5-list">
     <li>
         
     Powiedz, że istotnym elementem każdego procesu jest jego omówienie. Dziś takim
@@ -108,9 +109,12 @@ wspólne omówienie jej z dziećmi.
     </li>
 </ol>
     <h4>Propozycja rozszerzenia:</h4>
-    <ol class="a1_5-list">
+    <p>
     W celu głębszego zrozumienia przez uczniów, czym jest omówienie i świętowanie, na
 kolejnej lekcji zaproponuj zabawę:
+    </p>
+    <ol class="a1_5-list">
+    
     <li>
     
     Podziel uczniów do 4-5 osobowe grupy.

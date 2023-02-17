@@ -18,9 +18,12 @@ poznawczy ucznia, ale także oddziaływania wychowawcze wobec młodych ludzi.
     </p>
     <p>
     Agnieszkę i Magdę zobowiązuje do tego również ustawa Karta Nauczyciela:
-    
+    </p>
+    <p>
+    Nauczyciel zobowiązany jest:
+    </p>
     <ol>
-        Nauczyciel zobowiązany jest:
+        
         <li>rzetelnie realizować zadania związane z powierzonym mu stanowiskiem oraz
 podstawowymi funkcjami szkoły: dydaktyczną, wychowawczą i opiekuńczą, w tym
 zadania związane z zapewnieniem bezpieczeństwa uczniom w czasie zajęć
@@ -33,7 +36,6 @@ każdego człowieka;</li>
 <li>dbać o kształtowanie u uczniów postaw moralnych i obywatelskich zgodnie z ideą
 demokracji, pokoju i przyjaźni między ludźmi różnych narodów, ras i światopoglądów.</li>
     </ol>
-    </p>
     <p>
     Agnieszka organizując dodatkową lekcję języka polskiego skupia się na funkcji dydaktycznej
 szkoły. Przekazując specjalistom sprawy uczniów niejako zdejmuje z siebie
@@ -72,6 +74,7 @@ pedagogicznej Twojej szkoły.
 Niezależnie od tego, czy rzecz dotyczy młodzieży, czy dorosłych, naszych uczniów czy naszych
 nauczycieli, to do skutecznego działania niezbędna jest motywacja wewnętrzna. Aby mogła
 być ona siłą napędową, konieczne jest zaspokojenie trzech potrzeb, czyli:
+</p>
 <ul>
     <li>
     autonomii (określam cel, mogę wybrać sposoby jego osiągnięcia)
@@ -83,7 +86,6 @@ być ona siłą napędową, konieczne jest zaspokojenie trzech potrzeb, czyli:
     przynależności (jestem częścią społeczności uczącej się) 
     </li>
 </ul>
-</p>
 <p>
 Motywacja wewnętrzna powoduje, że człowiek - niezależnie od wieku - chce podejmować
 wyzwania, rozwijać się i poszukiwać rozwiązań adekwatnych do pojawiających się wyzwań.
@@ -93,29 +95,31 @@ jednej odważnej decyzji: zaufania do drugiej strony oraz stworzenia warunków d
 </p>
 <p>
 Jak możesz stworzyć warunki do rozwoju kadry pedagogicznej?
+</p>
 <ol>
     <li>Zadbaj o zaspokojenie potrzeb autonomii, kompetencji, przynależności:
         <ul>
             <li>dopóki Twoi nauczyciele nie działają na szkodę uczniów, pozwól im na poszukiwanie
-własnych metod pracy, rozmawiajcie wspólnie (z całą radą lub np. w zespołach
-przedmiotowych) o celach, jakie chcecie osiągnąć;</li>
-<li>
-komunikuj, jakie działania można podejmować w waszej szkole, a na jakie nie
-wyrażasz zgody (warto od razu podawać powody, dla których coś jest niemożliwe
-albo konieczne);
-</li>
-<li>
-buduj wśród nauczycieli kulturę pracy opartą na współpracy, a nie rywalizacji;
-</li>
-<li>
-traktuj błąd popełniony przez siebie lub innych jako okazję do wyciągania wniosków,
-jak uniknąć go w przyszłości w podobnej sytuacji.
-</li>
-        </ul>
+    własnych metod pracy, rozmawiajcie wspólnie (z całą radą lub np. w zespołach
+    przedmiotowych) o celach, jakie chcecie osiągnąć;</li>
+    <li>
+    komunikuj, jakie działania można podejmować w waszej szkole, a na jakie nie
+    wyrażasz zgody (warto od razu podawać powody, dla których coś jest niemożliwe
+    albo konieczne);
     </li>
     <li>
-    Zachęcaj do autorefleksji
+    buduj wśród nauczycieli kulturę pracy opartą na współpracy, a nie rywalizacji;
     </li>
+    <li>
+    traktuj błąd popełniony przez siebie lub innych jako okazję do wyciągania wniosków,
+    jak uniknąć go w przyszłości w podobnej sytuacji.
+    </li>
+            </ul>
+        </li>
+        <li>
+        Zachęcaj do autorefleksji
+        </li>
+</ol>
 <p>
 Holenderski badacz Fred Korthagen opracował tzw. “model cebuli”, który opisuje elementy
 określające nauczyciela. Są to misja, tożsamość, przekonania, kompetencje, zachowanie oraz
@@ -177,9 +181,11 @@ dla mnie wiedza?
     </ul>
     </li>
 </ul>
+<ol>
 <li>
 Zainicjuj zmianę ukrytego programu szkoły
 </li>
+</ol>
 <p>
 Ukryty program szkoły to określenie wszystkiego, czego uczy szkoła, a co nie jest jawnie
 nazwane. Są to m.in. nieuświadomione lub nienazwane wartości, zachowania czy stereotypy,
@@ -204,9 +210,11 @@ komunikaty wysyłacie i na ile są one spójne albo sprzeczne z tym, co byście 
 kształtować w waszych uczniach, rodzicach i pracownikach. Dopiero świadomość, jaki jest
 ukryty program szkoły, niweluje ryzyko, że działa on wbrew Waszej misji i wizji.
 </p>
+<ul>
 <li>
 Modeluj
 </li>
+</ul>
 <p>
 Dawaj przykład jako dyrektor i przywódca organizacji dawaj przykład. Jesteś postacią
 odgrywającą w zespole dużą rolę, więc to, o czym i w jaki sposób mówisz, oddziałuje na cała
@@ -218,9 +226,11 @@ Jakie są Twoje wartości? Co myślisz o sobie jako dyrektorze? Jak odbierają C
 w swojej szkole, a co chciałbyś w niej zmienić i dlaczego? Zastanów się, co chcesz
 komunikować zespołowi. Zacznij to robić w sposób uświadomiony i zaplanowany.
 </p>
+<ul>
 <li>
     Wspieraj
 </li>
+</ul>
 <p>
 Nie zmuszaj do objęcia wychowawstwa, jeśli zależy Ci na jego jakości. Nie przydzielaj
 wychowawstwa wbrew woli nauczyciela, porozmawiaj o tym, jakie potrzeby stoją za tym,
@@ -249,7 +259,6 @@ tego, co zaobserwowałeś/co Cię niepokoi, jak najczęściej stosuj komunikat J
 Pamiętaj, że dopiero nauczyciel, który czuje się bezpieczny i akceptowany, będzie gotów do
 wyjścia ze swojej strefy komfortu i wykorzystania nowych rozwiązań czy metod pracy.
 </p>
-</ol>
 </p>
     <a href="1_5.php" class="start-button">przejdź dalej</a>
 </article>

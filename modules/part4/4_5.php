@@ -11,36 +11,36 @@ include_once("../module_4.php");
         <b>czas:</b> 45 minut (+ ewentualne rozszerzenie o dodatkowe 45 min.)
     </p>
     <h4>cele:</h4>
-    <p>
         po zajeciach uczen: </br>
         <ul>
             <li>rozumie potrzebę formułowania i zapisywania celów</li>
             <li>wie, jak sformułować cel metodą SMART</li>
             <li>potrafi wyznaczyć swój cel.</li>
         </ul>
-    </p>
     <h4>metody:</h4>
-    <p>
+    
         <ul>
             <li>rozmowa kierowana</li>
             <li>opis przypadku</li>
         </ul>
-    </p>
+    
     <h4>formy:</h4>
-    <p>
+    
         <ul>
             <li>indywidualna</li>
             <li>grupowa</li>
             <li>zespołowa</li>
         </ul>
-    </p>
-    <ol class="a1_5-list">
     <h4>Faza wstępna [5 min]</h4>
+    <ol class="a1_5-list">
+    
     <li>
     Przedstaw temat oraz cele lekcji. Przypomnij o zasadach panujących na lekcji (wywieś
 kontrakt).
     </li>
+    </ol>
     <h4>Faza realizacyjna [25 min]</h4>
+    <ol class="a1_5-list">
     <li>
         
     Poproś uczniów i uczennice, aby każde z nich zapisało jeden cel, który chciałoby
@@ -72,7 +72,9 @@ nie. Swoje decyzje powinni uzasadnić.
     <li>
     Sprawdź na forum klasy prawidłowość udzielonych odpowiedzi.
     </li>
+    </ol>
     <h4>Faza podsumowująca [15 min]</h4>
+    <ol class="a1_5-list">
     <li>
         
     Zachęć uczniów do sformułowania własnych celów zgodnie z metodą SMART.
@@ -94,24 +96,25 @@ potrzebne.
     <h4>propozycja rozszerzenia:</h4>
     <ol class="a1_5-list">
     <li>
-    
-    Możesz rozszerzyć zajęcia ćwiczeniem: Jak widzisz siebie za 2, 5, 10 lat? Narysuj,
-napisz lub zrób kolaż. Zachęć do zastanowienia się:
-<ol type="a">
-    <li>
-    co zrobisz, żeby to osiągnąć?
-    </li>
-    <li>
-    co jest potrzebne, żeby to osiągnąć?
-    </li>
-</ol>
+            
+            Możesz rozszerzyć zajęcia ćwiczeniem: Jak widzisz siebie za 2, 5, 10 lat? Narysuj,
+        napisz lub zrób kolaż. Zachęć do zastanowienia się:
+        <ol type="a">
+            <li>
+            co zrobisz, żeby to osiągnąć?
+            </li>
+            <li>
+            co jest potrzebne, żeby to osiągnąć?
+            </li>
+        </ol>
         
     </li>
+</ol>
     <p class="attached">
         <a href="" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załącznik nr 1 SMART</a>
         <a href="" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załącznik nr 2 </a>
     </p>
-    <a href="../part5/5_1-main.php" class="start-button">Powrót na stronę główną</a>
+    <a href="../part5/5_1-main.php" class="start-button">przejdź dalej</a>
     </article>
     </section>
 </section>
