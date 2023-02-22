@@ -183,7 +183,7 @@ robić w rodzinie, w klasie, a jak indywidualnie.
     <p class="attached">
         <a href="" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załącznik nr 1 Przykłady informacji zwrotnych</a>
     </p>
-    <a href="../part4/4_1-main.php" class="start-button">Powrót na stronę główną</a>
+    <a href="3_6.php" class="start-button">przejdź dalej</a>
     </article>
     </section>
 </section>

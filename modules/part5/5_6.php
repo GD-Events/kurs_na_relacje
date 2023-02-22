@@ -47,7 +47,7 @@ https://angeladuckworth.com/grit-scale/ [dostęp: 05.02.2023 r.]<br>
 https://www.psychologia-spoleczna.pl/kulbat/1400-paradoksalna-psychologia.html
 [dostęp:05.02.2023 r.]
 </p>
-    <a href="../../index.php" class="start-button">Powrót na stronę główną</a>
+    <a href="5_7.php" class="start-button">przejdź dalej</a>
 </article>
 </section>
 </section>

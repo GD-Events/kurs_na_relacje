@@ -20,8 +20,8 @@ nich</a></h4>
         <li><a href="5_4.php" class="button-choice">wiedza</a></li>
         <li><a href="5_5.php" class="button-choice">praktyka</a></li>
         <li><a href="5_6.php" class="button-choice">Polecana literatura - podsumowanie</a></li>
+        <li><a href="5_7.php" class="button-choice">Podcast</a></li>
         </ul>
-        <h4><a href="../part6/6_1-main.php" class="module-choice"> oceny z zachowania</a></h4>
 </section>
 <section class="content content3">
   

@@ -17,7 +17,7 @@ include('sample/navigation.html');
 <a href="modules/part4/4_1-main.php" class="button-blue">Planowanie, czyli wyznaczanie celów i skuteczne dążenie do
 nich</a>
 <a href="modules/part5/5_1-main.php" class="button-black">wartośc, czyli o ukrytych motywach naszego działania</a>
-<a href="modules/part6/6_1-main.php" class="button-blue">oceny z zachowania</a>
+
 </section>
 <?php
 include_once('sample/footer.html');

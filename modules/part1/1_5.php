@@ -154,7 +154,7 @@ dyskusji:
         <a href="" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załącznik nr 2 karta wartości</a>
         <a href="" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załącznik nr 3 opisy grup i instytucji</a>
     </p>
-    <a href="../part2/2_1-main.php" class="start-button">Powrót na stronę główną</a>
+    <a href="1_6.php" class="start-button">przejdź Dalej</a>
     </article>
     </section>
 </section>

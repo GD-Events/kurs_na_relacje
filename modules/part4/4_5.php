@@ -114,7 +114,7 @@ potrzebne.
         <a href="" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załącznik nr 1 SMART</a>
         <a href="" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załącznik nr 2 </a>
     </p>
-    <a href="../part5/5_1-main.php" class="start-button">przejdź dalej</a>
+    <a href="4_6.php" class="start-button">przejdź dalej</a>
     </article>
     </section>
 </section>

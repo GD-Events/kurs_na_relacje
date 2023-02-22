@@ -13,11 +13,13 @@
             <li><a href="3_3.php" class="button-choice">refleksja</a></li>
             <li><a href="3_4.php" class="button-choice">wiedza</a></li>
             <li><a href="3_5.php" class="button-choice">praktyka</a></li>
+            <li><a href="3_6.php" class="button-choice">Podcast</a></li>
+            <li><a href="3_7.php" class="button-choice">Literatura</a></li>
             </ul>
         <h4><a href="../part4/4_1-main.php" class="module-choice"> Planowanie, czyli wyznaczanie celów i skuteczne dążenie do
 nich</a></h4>
         <h4><a href="../part5/5_1-main.php" class="module-choice"> Wytrwałość, czyli życie jako maraton, a nie sprint</a></h4>
-        <h4><a href="../part5/6_1-main.php" class="module-choice"> oceny z zachowania</a></h4>
+
 </section>
 <section class="content content3">
   

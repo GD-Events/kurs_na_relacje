@@ -89,9 +89,8 @@ footer>img{
     width: 70%;
     margin: 0 auto;
     display: flex;
-    
-
 }
+
 main{
     flex:1 1 100%;
 }
@@ -214,19 +213,16 @@ dd::marker{
     opacity: 60%;
     transition: .5s;
 }
-dd{
-    line-height: 2em;
-}
 p{
     line-height: 1.3em;
     font-size:medium;
 }
-dt{
-    font-weight: bold;
+li::first-letter{
+    text-transform: uppercase;
 }
-dd{
-    display: list-item;
+.attached>a{
+    margin: .5em 0;
 }
-/* dd::before{
-    content: '--';
-} */
+.knowledge>li{
+    margin: .5em 0;
+}
