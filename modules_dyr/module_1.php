@@ -9,6 +9,8 @@
         <li><a href="1_3.php" class="button-choice">refleksja</a></li>
         <li><a href="1_4.php" class="button-choice">wiedza</a></li>
         <li><a href="1_5.php" class="button-choice">praktyka</a></li>
+        <li><a href="1_6.php" class="button-choice">podcast</a></li>
+        <li><a href="1_7.php" class="button-choice">literatura</a></li>
         </ul>
         
     </section>

@@ -144,7 +144,7 @@ i rodzicami.
         <a href="" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załącznik nr 2 przemyślenia</a>
         <a href="" target="_blank"><img src="../../images/zasob_16.png" alt="ikona załącznika">załącznik nr 3 karta autorefleksji - mój rozwój</a>
     </p>
-    <a href="../../index.php" class="start-button">Powrót na stronę główną</a>
+    <a href="1_6.php" class="start-button">przejd dalej</a>
     </article>
     </section>
 </section>
