@@ -11,7 +11,16 @@ include_once("../module_1.php");
 
 <section class="content-1_2">
     <p style="font-style:oblique;">
-        <head>Szanowni Państwo,</head><br><br>
+        <head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RW88VPST65"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-RW88VPST65');
+</script>Szanowni Państwo,</head><br><br>
         
             Adrian, mimo moich wcześniejszych informacji o obowiązku ubrania się w strój galowy,
             przyszedł na obchody Święta Niepodległości w dresie. Bardzo proszę o porozmawianie
